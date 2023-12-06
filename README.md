@@ -13,3 +13,4 @@
 11. git <nombre_de_la_rama_a_mezclar_con_la_actual>
 12. git branch -d rama-nueva
 13. git push
+14. git commit -am
