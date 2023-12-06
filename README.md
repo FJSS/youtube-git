@@ -8,5 +8,6 @@
 6- git log
 7- git commit --amend
 8- git checkout -b rama-nueva
-9-
-10- 
+9- git branch
+10-
+11-  
